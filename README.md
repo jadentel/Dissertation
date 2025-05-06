@@ -44,7 +44,8 @@ This runs the GA on the 24-length sequence `BBWWBWWBWWBWWBWWBWWBWWBB`. It prints
 Navigate to the `test` folder and run:
 
 ```bash
-python -m unittest test.py
+pytest unittest test.py
+pytest unittest test.py -s # to print outputs
 ```
 
 This tests:
