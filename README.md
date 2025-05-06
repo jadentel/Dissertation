@@ -39,7 +39,7 @@ This runs the GA on the 24-length sequence `BBWWBWWBWWBWWBWWBWWBWWBB`. It prints
 
 ---
 
-## 🧪 Unit Testing
+## Unit Testing
 
 Navigate to the `test` folder and run:
 
