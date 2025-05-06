@@ -5,7 +5,7 @@ This project simulates protein folding using a Genetic Algorithm (GA) based on t
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -24,7 +24,7 @@ This project simulates protein folding using a Genetic Algorithm (GA) based on t
 
 ---
 
-## ▶️ How to Run
+## How to Run:
 
 ### Standard GA Run
 
@@ -55,7 +55,7 @@ This tests:
 
 ---
 
-## 📊 Performance Benchmarking
+## Performance Benchmarking
 
 Run multiple silent GA experiments and analyze results:
 
@@ -73,7 +73,7 @@ Also prints a statistical summary (mean, stdev, min, max) to terminal.
 
 ---
 
-## 🤖 Bayesian Optimization
+## Bayesian Optimization
 
 Use Bayesian Optimization to find the best GA parameters:
 
@@ -90,7 +90,7 @@ Reports the best parameters and resulting GA performance.
 
 ---
 
-## 🧬 Protein Sequence Format
+## Protein Sequence Format
 
 Proteins are sequences of:
 - `'B'` – Hydrophobic (black)
@@ -104,7 +104,7 @@ BBWWBWWBWWBWWBWWBWWBWWBB  # optimal energy = -9
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies:
 
@@ -116,7 +116,7 @@ pip install bayesian-optimization termcolor
 
 ---
 
-## ✅ Features Summary
+## Features Summary
 
 - ✔️ Three mutation operators: directed, corner flip, crankshaft
 - ✔️ Tournament selection and one-point crossover
@@ -125,7 +125,3 @@ pip install bayesian-optimization termcolor
 - ✔️ Bayesian hyperparameter tuning
 
 ---
-
-## 🧠 Credits
-
-Created as part of a protein folding research project using Genetic Algorithms and the HP lattice model.
