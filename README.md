@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yfSNuVM-)
+
 # Protein Folding with Genetic Algorithm (2D HP Model)
 
 This project simulates protein folding using a Genetic Algorithm (GA) based on the 2D Hydrophobic-Polar (HP) lattice model. It supports various mutation strategies, tournament-based crossover, ASCII visualization, performance logging, and Bayesian Optimization for hyperparameter tuning.
