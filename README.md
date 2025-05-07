@@ -91,6 +91,7 @@ Reports the best parameters and resulting GA performance.
 
 ---
 
+
 ## Protein Sequence Format
 
 Proteins are sequences of:
@@ -118,7 +119,7 @@ pip install bayesian-optimization termcolor
 ## Usage
 
 ```
-![image alt](85.png)
 
+![85](https://github.com/user-attachments/assets/939c584c-37ec-4f55-828f-8129b376d78e)
 
 
