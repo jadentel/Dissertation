@@ -113,3 +113,10 @@ Install dependencies:
 pip install bayesian-optimization termcolor
 ```
 
+---
+
+## Project Structure
+
+```
+![Screenshot 2025-05-06 010403](https://github.com/user-attachments/assets/5981c10f-b208-4556-a9b8-8bef7464911b)
+
