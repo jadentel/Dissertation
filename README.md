@@ -118,5 +118,6 @@ pip install bayesian-optimization termcolor
 ## Usage
 
 ```
-![Screenshot 2025-05-06 010403](https://github.com/user-attachments/assets/c878db57-cd12-4c10-971d-da927bcf3c1b)
+![Screenshot](Screenshot%202025-05-06%20010403.png)
+
 
