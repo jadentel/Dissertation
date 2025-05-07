@@ -113,16 +113,3 @@ Install dependencies:
 pip install bayesian-optimization termcolor
 ```
 
-> `termcolor` is used for colorful diff printing in tests.
-
----
-
-## Features Summary
-
-- ✔️ Three mutation operators: directed, corner flip, crankshaft
-- ✔️ Tournament selection and one-point crossover
-- ✔️ ASCII visualizations of folding paths
-- ✔️ Statistical logging and multiple run evaluation
-- ✔️ Bayesian hyperparameter tuning
-
----
