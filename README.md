@@ -118,7 +118,8 @@ pip install bayesian-optimization termcolor
 ## Usage
 
 ```
-![Example Image](85.png)
+![Example Image](https://raw.github.com/uol-feps-soc-comp3931-project-2425/individual-project-jadentel/85.png)
+
 
 
 
